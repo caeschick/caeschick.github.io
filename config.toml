@@ -1,7 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hallo"
-
-[Author]
-	name = "Caelan Hidalgo Schick"
